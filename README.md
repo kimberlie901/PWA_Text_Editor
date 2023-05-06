@@ -45,10 +45,10 @@ This application will be used for developers who want to write notes or code sni
 
 ### Demo Images
 
-- ![Demo Image](./Assets/01-demo.png)
-- ![Demo Image](./Assets/02-demo.png)
-- ![Demo Image](./Assets/03-demo.png)
-- ![Demo Image](./Assets/04-demo.png)
+- ![Demo Image](./Assets/screenshot1.png)
+- ![Demo Image](./Assets/screenshot2.png)
+- ![Demo Image](./Assets/screenshot3.png)
+- ![Demo Image](./Assets/screenshot4.png)
 
 ### Website
 
