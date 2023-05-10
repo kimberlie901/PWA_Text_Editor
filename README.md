@@ -52,7 +52,7 @@ This application will be used for developers who want to write notes or code sni
 
 ### Website
 
-- [Deployed Application]()
+- [Heroku Deployed Application](https://pwatexteditor1211.herokuapp.com/)
 - [Github Repository](https://github.com/kimberlie901/PWA_Text_Editor)
 
 ### Author
